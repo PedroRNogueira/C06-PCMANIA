@@ -2,7 +2,7 @@
 ---
 **Aluno:** Pedro Ribeiro Nogueira  
 **Matrícula:** 629
-**Curso:** Engenharia de Software – INATEL  
+**Curso:** Engenharia de Software
 **Sala:** C06-A
 ---
 
