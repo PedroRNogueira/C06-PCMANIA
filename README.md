@@ -1,9 +1,9 @@
 # 💻 Projeto PCMania
-
+---
 **Aluno:** Pedro Ribeiro Nogueira  
 **Matrícula:** 629
 **Curso:** Engenharia de Software – INATEL  
-**Sala** C06-A
+**Sala:** C06-A
 ---
 
 ## 📂 Estrutura do sistema
